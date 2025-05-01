@@ -710,6 +710,7 @@ a {
     justify-content: space-between;
     gap: 2rem;
     padding: 2rem 0rem;
+    
 }
 
 .card-servicos {
@@ -1121,7 +1122,7 @@ a {
 }
 
 .logo-contato img {
-    width: 80%;
+    width: 60%;
     border-radius: 36px;
 }
 
