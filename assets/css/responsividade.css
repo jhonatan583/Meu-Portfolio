@@ -1,13 +1,17 @@
 /* Responsividade para iPad (tablet) */
-@media (max-width: 1024px) {
+@media (max-width: 1050px) {
 
     .container {
-        padding: 0;
-    }
+        padding: 0px;
+        margin: 0px;
+    } 
 
     /************************** SOBRE ***/
     .sobre {
-        height: auto;
+        height: 100%;
+        flex-direction: column;
+      align-items: center;
+        
     }
 
     .container-sobre {
@@ -15,7 +19,7 @@
     }
     
     .headline-sobre {
-        height: auto;
+        height:auto;
         position: relative;
     }
 
